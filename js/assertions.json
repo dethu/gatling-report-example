@@ -1,0 +1,10 @@
+{
+  "simulation": "portal.BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1589789493311,
+  "description": "",
+  "scenarios": ["BasicSimulation"],
+  "assertions": [
+
+  ]
+}
